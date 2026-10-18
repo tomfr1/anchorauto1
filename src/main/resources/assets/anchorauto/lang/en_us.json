@@ -1,0 +1,14 @@
+{
+  "modmenu.nameTranslation.anchorauto": "Anchor Auto",
+  "modmenu.descriptionTranslation.anchorauto": "Places a respawn anchor on a keypress, charges it with glowstone and detonates it with the totem in hand.",
+  "key.category.anchorauto.main": "Anchor Auto",
+  "key.anchorauto.activate": "Place, charge and detonate anchor",
+  "key.anchorauto.gui": "Open settings",
+  "gui.anchorauto.title": "Anchor Auto - Settings",
+  "gui.anchorauto.delay_place": "Delay before placing anchor: %s ticks (%s ms)",
+  "gui.anchorauto.delay_charge": "Delay before glowstone charge: %s ticks (%s ms)",
+  "gui.anchorauto.delay_explode": "Delay before detonating (totem): %s ticks (%s ms)",
+  "gui.anchorauto.double_chance": "Chance for 2 glowstone: %s%%",
+  "gui.anchorauto.reset": "Defaults",
+  "gui.anchorauto.hint": "1 tick = 50 ms. Invalid input is marked red and ignored."
+}

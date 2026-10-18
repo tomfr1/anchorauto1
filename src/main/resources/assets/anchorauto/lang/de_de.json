@@ -1,0 +1,14 @@
+{
+  "modmenu.nameTranslation.anchorauto": "Anker-Automatik",
+  "modmenu.descriptionTranslation.anchorauto": "Platziert per Tastendruck einen Respawn-Anker, lädt ihn mit Glowstone und sprengt ihn mit dem Totem in der Hand.",
+  "key.category.anchorauto.main": "Anker-Automatik",
+  "key.anchorauto.activate": "Anker platzieren, laden und sprengen",
+  "key.anchorauto.gui": "Einstellungen öffnen",
+  "gui.anchorauto.title": "Anker-Automatik – Einstellungen",
+  "gui.anchorauto.delay_place": "Verzögerung vor Anker platzieren: %s Ticks (%s ms)",
+  "gui.anchorauto.delay_charge": "Verzögerung vor Glowstone-Laden: %s Ticks (%s ms)",
+  "gui.anchorauto.delay_explode": "Verzögerung vor Sprengen (Totem): %s Ticks (%s ms)",
+  "gui.anchorauto.double_chance": "Chance auf 2 Glowstone: %s%%",
+  "gui.anchorauto.reset": "Standardwerte",
+  "gui.anchorauto.hint": "1 Tick = 50 ms. Ungültige Eingaben werden rot markiert und nicht übernommen."
+}
